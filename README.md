@@ -15,7 +15,7 @@
   <div>
     👩‍💻 <b>Nome:</b> Rafaela Ayres <br>
     💻 <b>Curso:</b> Sistemas de Informação na Unifacisa <br>
-    📚 <b>Semestre:</b> 4° <br>
+    📚 <b>Semestre:</b> 5° <br>
     🌇 <b>Cidade:</b> Campina Grande
   </div>
 </div>
@@ -37,9 +37,9 @@
 
 ## Minhas Atividades
 
-- 🔭 Atualmente estou trabalhando com testes da [API ServeRest](https://gitlab.com/sprint-19423339/sprints)  
-- 🌱 Atualmente estou aprendendo **k6, Jira, Postman**  
-- 🔭 Estou desenvolvendo o projeto [Casa Horti](https://github.com/RafaBricia/casaHorti-api-rest)  
+- 🔭 Atualmente estou trabalhando como estagiária no [Colégio Panorama](https://colegiopanorama.com.br/)
+- 🌱 Atualmente estou aprendendo **frontend, backend e documentação**  
+- 🔭 Estou desenvolvendo o projeto [Modus](https://github.com/RafaBricia/modus)  
 - 👨‍💻 Meus projetos estão disponíveis em [GitHub](https://github.com/RafaBricia)  
 - 📫 Entre em contato pelo e-mail **rafaelaaayres@gmail.com**  
 - 📄 Conheça minhas experiências no meu [portfólio no Canva](https://www.canva.com/design/DAGLOu-kwAU/AjzjmMoouDEKP5wVNs13Hw/edit)  
