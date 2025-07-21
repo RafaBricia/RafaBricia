@@ -61,7 +61,7 @@
 - 🧠 Estudando **frontend, backend, documentação e web scraping com Python**
 - 📁 Projetos disponíveis no [GitHub](https://github.com/RafaBricia)
 - 📫 Contato: **rafaelaaayres@gmail.com**
-- 🖼️ Currículo: [Canva](https://www.canva.com/design/DAGLOu-kwAU/AjzjmMoouDEKP5wVNs13Hw/edit)
+- 🖼️ Currículo: <a href='https://docs.google.com/document/d/1k6IJVuKARVuoCmT89ObvvZVfpbqu4y50OK6UgUbou44/edit?usp=sharing'>Rafaela Ayres</a>
 
 <br>
 
@@ -122,7 +122,7 @@
 - 🔍 Learning **frontend, backend, documentation, and web scraping with Python**
 - 📁 My projects are available on [GitHub](https://github.com/RafaBricia)
 - 📫 Contact me at **rafaelaaayres@gmail.com**
-- 🎨 Check out my [curriculum](https://www.canva.com/design/DAGLOu-kwAU/AjzjmMoouDEKP5wVNs13Hw/edit)
+- 🎨 Check out my <a href='https://docs.google.com/document/d/1k6IJVuKARVuoCmT89ObvvZVfpbqu4y50OK6UgUbou44/edit?usp=sharing'>Rafaela Ayres</a>
 
 <br>
 
